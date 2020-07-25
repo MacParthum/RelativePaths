@@ -1,2 +1,3 @@
 # RelativePaths
 Class activity 01
+This almost works. In order to get it to duplicate the example image I had to unconsolodate the classes.  Then give each class its own float tag and finally move the conatct info class down to the last position to overide the other float commands.  Im sure theres a better way to do this but the code looks clean and simple so Im happy with being able to combine html and css and get it to work :-)
